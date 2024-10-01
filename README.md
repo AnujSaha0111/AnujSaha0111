@@ -3,7 +3,7 @@
 - 👀 I’m working in AI/ML and Data Science and I love exploring Deep Learning and Neural Networks.
 - 👯 I’m looking to collaborate on any open source (mainly Machine Leaning and Data Science Projects).
 - 🌱 I’m currently a student at the Indian Institute of Information Technology Vadodara with a major in Computer Science(B. Tech CSE 2023-2027). I have a passion for computer programming and information technology. This passion has given me the ability to learn new technologies. 
-- 💞️ I am open to learning new things and getting involved and collaborate with new projects that can help me learn or apply all that I have learned till now.
+- 🤝 I am open to learning new things and getting involved and collaborate with new projects that can help me learn or apply all that I have learned till now.
 - 📫 You can reach me at my anujsahabest0111@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Passionate for new activities to explore in my life.
