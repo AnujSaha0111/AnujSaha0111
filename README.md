@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 
-- 👀 I'm working in AI/ML and Data Science, and I love exploring Deep Learning and Neural Networks, along with having experience in Web Development.
-- 👯 I’m looking to collaborate on any open source (mainly Machine Leaning and Data Science Projects).
-- 🌱 I’m currently a student at the Indian Institute of Information Technology Vadodara with a major in Computer Science(B. Tech CSE 2023-2027). I have a passion for computer programming and information technology. This passion has given me the ability to learn new technologies. 
-- 🤝 I am open to learning new things and getting involved and collaborate with new projects that can help me learn or apply all that I have learned till now.
+- 👀 I am currently engaged in the fields of AI/ML and Data Science, with strong interest in Deep Learning and Neural Networks. I also have experience with Web Development.
+- 👯 I am actively seeking collaboration opportunities on open-source initiatives, particularly those related to Machine Learning and Data Science.
+- 🌱 I am pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering (2023–2027) at the Indian Institute of Information Technology, Vadodara. My passion for computer programming and emerging technologies drives my commitment to continuous learning and professional development.
+- 🤝 I am enthusiastic about contributing to projects where I can apply my skills, expand my expertise, and collaborate with like-minded individuals.
 - 📫 You can reach me at my anujsahabest0111@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Passionate for new activities to explore in my life.
+- ⚡ Fun fact: Passionate in exploring new activities and experiences beyond the realm of technology, believing in a well-rounded approach to growth.
 
 <!---
 AnujSaha0111/AnujSaha0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
