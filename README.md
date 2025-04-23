@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnujSaha0111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSaha0111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake eating contributions](https://raw.githubusercontent.com/AnujSaha0111/AnujSaha0111/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AnujSaha0111/AnujSaha0111/output/github-contribution-grid-snake.svg)
