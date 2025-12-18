@@ -36,10 +36,6 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20views&color=0e75b6&style=flat" alt="AnujSaha0111" /> </p>
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyavaishya&theme=highcontrast&hide_border=true" alt="Profile Details" /> -->
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
