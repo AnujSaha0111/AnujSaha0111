@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
+
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 
 - 👀 I am currently engaged in the fields of AI/ML and Data Science, with strong interest in Deep Learning and Neural Networks. I also have experience with Web Development.
@@ -25,6 +27,19 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnujSaha0111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnujSaha0111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSaha0111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSaha0111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujSaha0111&theme=dark" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20views&color=0e75b6&style=flat" alt="AnujSaha0111" /> </p>
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyavaishya&theme=highcontrast&hide_border=true" alt="Profile Details" /> -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
