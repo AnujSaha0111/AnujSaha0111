@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
 
-<h1 align="center">Hi 👋, I'm Anuj</h1>
+<h1 align="center">Hi 👋, I'm Anuj Saha</h1>
 
 - 👀 I am currently engaged in the fields of AI/ML and Data Science, with strong interest in Deep Learning and Neural Networks. I also have experience with Web Development.
 - 👯 I am actively seeking collaboration opportunities on open-source initiatives, particularly those related to Machine Learning and Data Science.
