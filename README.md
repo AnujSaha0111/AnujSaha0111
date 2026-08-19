@@ -141,15 +141,34 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p> -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="Anuj Saha GitHub Stats" />
-  <img src="./profile/top-langs.svg" width="40%" alt="Anuj Saha Top Languages" />
+  <img
+    src="https://github.com/AnujSaha0111/AnujSaha0111/raw/main/profile/stats.svg"
+    alt="Anuj Saha GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://github.com/AnujSaha0111/AnujSaha0111/raw/main/profile/top-langs.svg"
+    alt="Anuj Saha Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSaha0111&theme=dark&hide_border=true"
+    alt="Anuj Saha GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
