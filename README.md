@@ -141,4 +141,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p> -->
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" alt="Anuj Saha GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="40%" alt="Anuj Saha Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
