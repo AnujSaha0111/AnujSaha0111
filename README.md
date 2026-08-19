@@ -113,7 +113,7 @@ You can click the Preview link to take a look at your changes.
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/> -->
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
   &nbsp;&nbsp;
@@ -157,12 +157,12 @@ You can click the Preview link to take a look at your changes.
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSaha0111&theme=dark&hide_border=true"
     alt="Anuj Saha GitHub Streak"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
