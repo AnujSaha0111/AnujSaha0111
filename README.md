@@ -126,29 +126,19 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/AnujSaha0111">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnujSaha0111&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Anuj Saha GitHub Stats" />
+  </a>
+  <a href="https://github.com/AnujSaha0111">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSaha0111&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%" alt="Anuj Saha Top Languages" />
+  </a>
+</p>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=AnujSaha0111&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Anuj Saha GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSaha0111&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Anuj Saha Top Languages"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSaha0111&theme=dark&hide_border=true" alt="Anuj Saha GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnujSaha0111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
