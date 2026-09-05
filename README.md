@@ -39,6 +39,16 @@ You can click the Preview link to take a look at your changes.
 </a>
 &nbsp;&nbsp;&nbsp;
 
+<a href="https://www.kaggle.com/anujsaha0123456789" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"
+    alt="Kaggle"
+    width="38"
+    height="38"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/anujsaha0111/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -48,15 +58,6 @@ You can click the Preview link to take a look at your changes.
   />
 </a>
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/AnujSaha0111" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    alt="X"
-    width="38"
-    height="38"
-  />
-</a>
 
 </p>
 
